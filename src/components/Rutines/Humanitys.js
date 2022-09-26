@@ -380,8 +380,19 @@ const Humanitys = () => {
                         </tr>
                     </tfoot>
                 </table>
-            </div>
 
+            </div>
+            <div className='mt-10 flex justify-center '>
+                <a
+                    className='btn btn-primary'
+                    href='https://github.com/mdtamizuddin/dynamic-rutine/raw/main/public/Rutine-Humanities.pdf'
+                    rel="noreferrer"
+                    target={'_blank'}
+                >
+                    Dowload Rutine
+                </a>
+
+            </div>
 
 
         </div>
